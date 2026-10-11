@@ -104,10 +104,10 @@
 
 <div align="center">
 
-<a href="https://github.com/sagungiri123/REPLACE_WITH_PROJECT_1">
+<a href="https://github.com/sagungiri123/Async-LLM-interface-gateway">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=sagungiri123&repo=REPLACE_WITH_PROJECT_1&hide_border=true&theme=transparent" alt="Featured project 1"/>
 </a>
-<a href="https://github.com/sagungiri123/REPLACE_WITH_PROJECT_2">
+<a href="https://github.com/sagungiri123/Fastapi-Chat-System">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=sagungiri123&repo=REPLACE_WITH_PROJECT_2&hide_border=true&theme=transparent" alt="Featured project 2"/>
 </a>
 
@@ -123,7 +123,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <!-- TODO: Replace the placeholder URL with your LinkedIn profile. -->
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+<a href="https://www.linkedin.com/in/sagun-giri-732792391/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <!-- TODO: Replace with your portfolio website, if you have one. -->
