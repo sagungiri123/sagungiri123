@@ -1,116 +1,136 @@
 
-<!-- ================= PROFILE HEADER ================= -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:1F6FEB&height=200&section=header&text=Sagun%20Giri&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Developer&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Sagun Giri profile banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:1F6FEB&height=210&section=header&text=SAGUN%20GIRI&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Backend%20%7C%20AI%20Systems&descSize=15&descAlignY=58&animation=fadeIn" width="100%" alt="Sagun Giri animated banner"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Building+Modern+Web+Applications;Turning+Ideas+Into+Code;Always+Learning%2C+Always+Building" alt="Animated introduction"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Applications;Developing+Async+AI+Infrastructure;Creating+Real-Time+Chat+Systems;Turning+Ideas+Into+Working+Software" alt="Animated developer introduction"/>
 
 <br/>
 
 <a href="https://github.com/sagungiri123">
-  <img src="https://img.shields.io/badge/GitHub-sagungiri123-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-sagungiri123-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://github.com/sagungiri123?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-Explore-161B22?style=for-the-badge&logo=github&logoColor=58A6FF" alt="Repositories"/>
+<img src="https://img.shields.io/badge/Projects-Explore-161B22?style=for-the-badge&logo=github&logoColor=58A6FF" alt="Projects"/>
+</a>
+<a href="https://github.com/sagungiri123?tab=followers">
+<img src="https://img.shields.io/badge/Connect-on%20GitHub-161B22?style=for-the-badge&logo=github&logoColor=58A6FF" alt="Connect"/>
 </a>
 
 </div>
 
 ---
 
-## `> whoami`
+## `> about_me`
 
-```javascript
-const sagun = {
-  role: "Full-Stack Developer",
-  interests: [
-    "Web Development",
-    "Problem Solving",
-    "Open Source"
-  ],
-  mindset: "Learn. Build. Improve. Repeat.",
-  currentlyLearning: "[Add your current learning goal]"
-};
+```python
+class Developer:
+    name = "Sagun Giri"
+    role = "Full-Stack Developer"
+    interests = [
+        "Backend Engineering",
+        "Asynchronous Systems",
+        "AI Infrastructure",
+        "Real-Time Applications",
+    ]
+
+    philosophy = "Build. Learn. Improve. Repeat."
 ```
 
-- 💻 Interested in building modern, responsive web applications.
-- 🌱 Continuously learning new tools, technologies, and best practices.
-- 🚀 Focused on writing clean, maintainable, and useful code.
-- 🤝 Open to learning, collaboration, and interesting projects.
-
----
-
-## `> tech_stack`
-
-<!-- Replace these sample technologies with your actual skills. -->
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python&theme=dark" alt="Languages"/>
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" alt="Frontend technologies"/>
-
-### Backend & Databases
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb&theme=dark" alt="Backend and databases"/>
-
-### Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker&theme=dark" alt="Development tools"/>
-
-</div>
-
----
-
-## `> github_stats`
-
-<div align="center">
-
-<a href="https://github.com/sagungiri123">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=sagungiri123&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" alt="GitHub stats"/>
-</a>
-<a href="https://github.com/sagungiri123">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagungiri123&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most used languages"/>
-</a>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=sagungiri123&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub contribution streak"/>
-
-</div>
-
----
-
-## `> contribution_activity`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sagungiri123&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=FFFFFF&area=true&area_color=1F6FEB&hide_border=true" width="100%" alt="Contribution activity graph"/>
-
-</div>
+- 💻 Building backend services and web applications.
+- ⚡ Exploring asynchronous processing and background workers.
+- 🤖 Interested in AI infrastructure and LLM-powered applications.
+- 💬 Developing real-time communication systems.
+- 🌱 Always learning and improving my engineering skills.
 
 ---
 
 ## `> featured_projects`
 
-<!-- Replace the project names below with your actual public repository names. -->
+### 01. Async LLM Interface Gateway
+
+<a href="https://github.com/sagungiri123/Async-LLM-interface-gateway">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sagungiri123&repo=Async-LLM-interface-gateway&theme=github_dark&hide_border=true" width="100%" alt="Async LLM Interface Gateway repository card"/>
+</a>
+
+**An asynchronous AI inference gateway built with FastAPI.**
+
+The gateway accepts AI prompts, queues jobs for background processing, and allows clients to retrieve results using a task ID.
+
+**Key technologies**
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+</p>
+
+<a href="https://github.com/sagungiri123/Async-LLM-interface-gateway">View source code →</a>
+
+---
+
+### 02. FastAPI Chat System
+
+<a href="https://github.com/sagungiri123/Fastapi-Chat-System">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sagungiri123&repo=Fastapi-Chat-System&theme=github_dark&hide_border=true" width="100%" alt="FastAPI Chat System repository card"/>
+</a>
+
+**A real-time chat backend built with FastAPI and WebSockets.**
+
+Features include JWT authentication, online presence, typing indicators, direct-message rooms, message history pagination, and Redis Pub/Sub for scaling across processes.
+
+**Key technologies**
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebSockets-161B22?style=flat-square&logo=socketdotio&logoColor=white"/>
+</p>
+
+<a href="https://github.com/sagungiri123/Fastapi-Chat-System">View source code →</a>
+
+---
+
+## `> tech_stack`
 
 <div align="center">
 
-<a href="https://github.com/sagungiri123/PROJECT_ONE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sagungiri123&repo=PROJECT_ONE&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&hide_border=true" alt="Featured project one"/>
-</a>
-<a href="https://github.com/sagungiri123/PROJECT_TWO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sagungiri123&repo=PROJECT_TWO&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&hide_border=true" alt="Featured project two"/>
-</a>
+### Languages & Frameworks
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,js,html,css&theme=dark" alt="Languages and frameworks"/>
+
+### Databases & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=postgres,redis,docker,linux,git,github&theme=dark" alt="Databases and infrastructure"/>
+
+</div>
+
+---
+
+## `> github_statistics`
+
+<div align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=sagungiri123&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagungiri123&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=sagungiri123&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak"/>
+
+</div>
+
+---
+
+## `> contribution_graph`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sagungiri123&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub activity graph"/>
 
 </div>
 
@@ -121,15 +141,7 @@ const sagun = {
 <div align="center">
 
 <a href="https://github.com/sagungiri123">
-  <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<!-- Replace the placeholder URL with your real LinkedIn profile. -->
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
-  <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
-</a>
-<!-- Replace with your actual portfolio URL, or remove this badge. -->
-<a href="https://YOUR_PORTFOLIO_URL">
-  <img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <br/><br/>
@@ -138,10 +150,12 @@ const sagun = {
 
 <br/><br/>
 
-**"Great software is built one improvement at a time."**
+### `while(alive) { learn(); build(); repeat(); }`
 
-<sub>Thanks for visiting my profile. Let's build something meaningful. 💙</sub>
+<sub>Thanks for visiting my profile. Happy coding! 💙</sub>
 
 </div>
 
-<!-- ================= PROFILE FOOTER ================= -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0D1117&height=100&section=footer" width="100%" alt="Decorative footer"/>
+
+</div>
